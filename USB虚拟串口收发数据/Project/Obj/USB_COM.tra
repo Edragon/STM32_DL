@@ -1,0 +1,38 @@
+*** Creating Trace Output File '.\Obj\USB_COM.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\hw_config.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\usb_desc.o"'
+### List of Objects: adding '".\obj\usb_endp.o"'
+### List of Objects: adding '".\obj\usb_istr.o"'
+### List of Objects: adding '".\obj\usb_prop.o"'
+### List of Objects: adding '".\obj\usb_pwr.o"'
+### List of Objects: adding '".\obj\usb_core.o"'
+### List of Objects: adding '".\obj\usb_init.o"'
+### List of Objects: adding '".\obj\usb_int.o"'
+### List of Objects: adding '".\obj\usb_mem.o"'
+### List of Objects: adding '".\obj\usb_regs.o"'
+### List of Objects: adding '".\obj\usb_sil.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_hd.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\hw_config.o" ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\usb_desc.o" ".\obj\usb_endp.o" ".\obj\usb_istr.o" ".\obj\usb_prop.o" ".\obj\usb_pwr.o" ".\obj\usb_core.o" ".\obj\usb_init.o" ".\obj\usb_int.o" ".\obj\usb_mem.o" ".\obj\usb_regs.o" ".\obj\usb_sil.o" ".\obj\misc.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_rcc.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" ".\obj\startup_stm32f10x_hd.o" --strict --scatter ".\Obj\USB_COM.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\List\USB_COM.map" -o ".\Obj\USB_COM.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\USB_COM.axf'
+### ADS-LD Command File: '.\Obj\USB_COM.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\USB_COM.lnp', Handle=0x00000730
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\USB_COM.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
